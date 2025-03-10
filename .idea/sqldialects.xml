@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Spring中间件数据库持久化配置/Nacos2.5/mysql-schema.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/实习项目/iot_system.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/本地数据库/mall.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/毕业设计/bs_book.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/Encounter-2024_09_14_08_10_10-dump.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/Encounter-2024_09_27_11_29_21-dump.sql" dialect="MySQL" />
@@ -9,6 +11,7 @@
     <file url="file://$PROJECT_DIR$/../Database/cloud_order.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/cloud_user.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/tlias.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../GitHub/Clone/mall/document/sql/mall.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
