@@ -37,5 +37,19 @@
       <jdbc-url>jdbc:mysql://mysql.encounterdx.live:29265</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="Elastic" uuid="fd7502a1-d267-4f73-a18c-d9890fd2976e">
+      <driver-ref>elasticsearch</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.elasticsearch.xpack.sql.jdbc.EsDriver</jdbc-driver>
+      <jdbc-url>jdbc:es://47.94.194.185:20012/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="mysql5.7" uuid="410e24f2-ec84-4fa7-9de1-6eb4d29be138">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3307</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
