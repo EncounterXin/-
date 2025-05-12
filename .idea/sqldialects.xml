@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/../../Encounter/Document/xwechat_files/wxid_k3fmybp50fne22_12f2/msg/file/2025-04/ry-vue.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Spring中间件数据库持久化配置/Nacos2.5/mysql-schema.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Spring中间件数据库持久化配置/mqtt/客户端认证.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/mysql57/ry-vue.sql" dialect="MySQL" />
@@ -15,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/本地数据库/mall.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/本地数据库/个人博客aurora/aurora.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/毕业设计/bs_book.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Database/-2025_04_28_18_34_11-dump.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/Encounter-2024_09_14_08_10_10-dump.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/Encounter-2024_09_27_11_29_21-dump.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Database/bms.sql" dialect="MySQL" />
